@@ -1,5 +1,3 @@
-
-
 function calculadora(quantidadeVitorias, quantidadeDerrotas) {
    let saldoVitorias = quantidadeVitorias - quantidadeDerrotas;
     let nivel = "";
